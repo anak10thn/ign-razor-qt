@@ -1,0 +1,6 @@
+[ign7-razor-qt]
+name=ign7-razor-qt
+baseurl= http://download.opensuse.org/repositories/home://TI_Eugene://QtDesktop/Fedora_16/
+failovermethod=priority
+enabled=1
+gpgcheck=0

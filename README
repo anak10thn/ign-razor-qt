@@ -1,0 +1,8 @@
+Repository razor-Qt sudah terpasang. 
+untuk memasang silahkan lakukan langkah di bawah ini: 
+- Jalankan terminal emulator IGN anda! 
+- Pasang password user dengan mengetikan 'passwd' 
+- Pasang Razor-Qt dengan mengetikan 'beesu yum install -y razorqt' 
+- Tekan ctrl+alt+backspace 
+- Pada form login pilih sesi login Razor-Qt 
+- Masukan password untuk masuk ke IGN anda"

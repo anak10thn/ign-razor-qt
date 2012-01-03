@@ -1,0 +1,5 @@
+#!/bin/bash
+PWD=`pwd`
+beesu cp $PWD/ign7-razor-qt /etc/yum.repos.d/ign7-razor-qt.repo
+beesu ign-repo-internet
+zenity --title="RAZOR-QT REPO FOR IGOS NUSANTARA" --width="500" --height="300" --text-info --filename=$PWD/README
