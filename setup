@@ -1,4 +1,5 @@
 #!/bin/bash
+#Ibnu Yahya/anak10thn <ibnu.yahya@toroo.org>
 PWD=`pwd`
 beesu cp $PWD/ign7-razor-qt /etc/yum.repos.d/ign7-razor-qt.repo
 beesu ign-repo-internet
